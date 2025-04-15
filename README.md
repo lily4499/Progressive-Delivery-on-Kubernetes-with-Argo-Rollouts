@@ -1,5 +1,6 @@
 # Progressive-Delivery-on-Kubernetes-with-Argo-Rollouts
-![image](https://github.com/user-attachments/assets/44787889-e63a-4fbd-b5e5-686216ec1127)
+![image](https://github.com/user-attachments/assets/7891a488-1ad1-48d5-b299-46a0df746133)
+
 
 Here's your project reorganized into a **step-by-step, comprehensive deployment guide** for **Progressive Delivery on Kubernetes with Argo Rollouts on EKS**, using CLI commands and clean transitions. This is perfect for documentation, GitHub `README.md`, or workshop material.
 
