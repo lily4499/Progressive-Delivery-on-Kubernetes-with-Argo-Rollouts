@@ -3,9 +3,6 @@
 
 
 
-![image](https://github.com/user-attachments/assets/ba0a7a78-f6b9-4ec6-9b23-987f58f19336)
-
-
 ---
 
 ```markdown
@@ -333,4 +330,6 @@ http://localhost:3100/rollouts
 Watch rollout states and trigger actions directly from the UI.
 
 ---
+
+![image](https://github.com/user-attachments/assets/f0995e5e-89eb-43d0-8d3d-c3f7cfdcbc60)
 
